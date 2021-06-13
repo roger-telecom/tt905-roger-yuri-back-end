@@ -1,0 +1,17 @@
+{
+  "name": "indexatividade",
+  "version": "1.0.0",
+  "main": "indexAtividade.js",
+  "scripts": {
+    "start": "node indexatividade.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "description": ""
+}
